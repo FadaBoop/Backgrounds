@@ -8,7 +8,7 @@
 ![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/mountains.jpg)
 
 ## Pink
-![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/pink.jpg)
+![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/pink.png)
 
 ## Nord Car Live
-![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/nord_car_live.jpg)
+![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/nord_car_live.gif)
