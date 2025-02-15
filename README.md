@@ -12,3 +12,6 @@
 
 ## Nord Car Live
 ![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/nord_car_live.gif)
+
+## Skull
+![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/skull.png)
