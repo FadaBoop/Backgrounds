@@ -2,6 +2,9 @@
 ## Beach
 ![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/beach.jpg)
 
+## Brooklyn
+![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/brooklyn.png)
+
 ## City Night
 ![Screen](https://github.com/FadaBoop/Backgrounds/blob/main/city_night.jpg)
 
